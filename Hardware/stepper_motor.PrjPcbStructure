@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=stepper_motor.SchDoc
+Record=SheetSymbol|SourceDocument=stepper_motor.SchDoc|Designator=U_drv8825|SchDesignator=U_drv8825|FileName=drv8825.SchDoc|SymbolType=Normal|RawFileName=drv8825.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=stepper_motor.SchDoc|Designator=U_power|SchDesignator=U_power|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=stepper_motor.SchDoc|Designator=U_stm32f1|SchDesignator=U_stm32f1|FileName=stm32f1.SchDoc|SymbolType=Normal|RawFileName=stm32f1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
