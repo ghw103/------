@@ -1,0 +1,255 @@
+Added Component: Designator=R?_U_DRV8825_MODE1(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE1(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE2(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE2(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE3(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE3(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE4(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE4(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE5(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE5(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE6(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE6(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE7(RES_0603)
+Added Component: Designator=R?_U_DRV8825_MODE7(RES_0603)
+Added Component: Designator=U?_U_DRV8825_MODE1(drv8825mode)
+Added Component: Designator=U?_U_DRV8825_MODE2(drv8825mode)
+Added Component: Designator=U?_U_DRV8825_MODE3(drv8825mode)
+Added Component: Designator=U?_U_DRV8825_MODE4(drv8825mode)
+Added Component: Designator=U?_U_DRV8825_MODE5(drv8825mode)
+Added Component: Designator=U?_U_DRV8825_MODE6(drv8825mode)
+Added Component: Designator=U?_U_DRV8825_MODE7(drv8825mode)
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE1 Pin=R?_U_DRV8825_MODE1-1
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE1 Pin=R?_U_DRV8825_MODE1-2
+Added Net: Name=3.3_U_DRV8825_MODE1
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE2 Pin=R?_U_DRV8825_MODE2-1
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE2 Pin=R?_U_DRV8825_MODE2-2
+Added Net: Name=3.3_U_DRV8825_MODE2
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE3 Pin=R?_U_DRV8825_MODE3-1
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE3 Pin=R?_U_DRV8825_MODE3-2
+Added Net: Name=3.3_U_DRV8825_MODE3
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE4 Pin=R?_U_DRV8825_MODE4-1
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE4 Pin=R?_U_DRV8825_MODE4-2
+Added Net: Name=3.3_U_DRV8825_MODE4
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE5 Pin=R?_U_DRV8825_MODE5-1
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE5 Pin=R?_U_DRV8825_MODE5-2
+Added Net: Name=3.3_U_DRV8825_MODE5
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE6 Pin=R?_U_DRV8825_MODE6-1
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE6 Pin=R?_U_DRV8825_MODE6-2
+Added Net: Name=3.3_U_DRV8825_MODE6
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE7 Pin=R?_U_DRV8825_MODE7-1
+Added Pin To Net: NetName=3.3_U_DRV8825_MODE7 Pin=R?_U_DRV8825_MODE7-2
+Added Net: Name=3.3_U_DRV8825_MODE7
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE1-9
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE1-14
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE2-9
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE2-14
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE3-9
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE3-14
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE4-9
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE4-14
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE5-9
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE5-14
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE6-9
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE6-14
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE7-9
+Added Pin To Net: NetName=GND Pin=U?_U_DRV8825_MODE7-14
+Added Net: Name=GND
+Added Pin To Net: NetName=M0_U_DRV8825_MODE1 Pin=U?_U_DRV8825_MODE1-2
+Added Net: Name=M0_U_DRV8825_MODE1
+Added Pin To Net: NetName=M0_U_DRV8825_MODE2 Pin=U?_U_DRV8825_MODE2-2
+Added Net: Name=M0_U_DRV8825_MODE2
+Added Pin To Net: NetName=M0_U_DRV8825_MODE3 Pin=U?_U_DRV8825_MODE3-2
+Added Net: Name=M0_U_DRV8825_MODE3
+Added Pin To Net: NetName=M0_U_DRV8825_MODE4 Pin=U?_U_DRV8825_MODE4-2
+Added Net: Name=M0_U_DRV8825_MODE4
+Added Pin To Net: NetName=M0_U_DRV8825_MODE5 Pin=U?_U_DRV8825_MODE5-2
+Added Net: Name=M0_U_DRV8825_MODE5
+Added Pin To Net: NetName=M0_U_DRV8825_MODE6 Pin=U?_U_DRV8825_MODE6-2
+Added Net: Name=M0_U_DRV8825_MODE6
+Added Pin To Net: NetName=M0_U_DRV8825_MODE7 Pin=U?_U_DRV8825_MODE7-2
+Added Net: Name=M0_U_DRV8825_MODE7
+Added Pin To Net: NetName=M1_U_DRV8825_MODE1 Pin=U?_U_DRV8825_MODE1-3
+Added Net: Name=M1_U_DRV8825_MODE1
+Added Pin To Net: NetName=M1_U_DRV8825_MODE2 Pin=U?_U_DRV8825_MODE2-3
+Added Net: Name=M1_U_DRV8825_MODE2
+Added Pin To Net: NetName=M1_U_DRV8825_MODE3 Pin=U?_U_DRV8825_MODE3-3
+Added Net: Name=M1_U_DRV8825_MODE3
+Added Pin To Net: NetName=M1_U_DRV8825_MODE4 Pin=U?_U_DRV8825_MODE4-3
+Added Net: Name=M1_U_DRV8825_MODE4
+Added Pin To Net: NetName=M1_U_DRV8825_MODE5 Pin=U?_U_DRV8825_MODE5-3
+Added Net: Name=M1_U_DRV8825_MODE5
+Added Pin To Net: NetName=M1_U_DRV8825_MODE6 Pin=U?_U_DRV8825_MODE6-3
+Added Net: Name=M1_U_DRV8825_MODE6
+Added Pin To Net: NetName=M1_U_DRV8825_MODE7 Pin=U?_U_DRV8825_MODE7-3
+Added Net: Name=M1_U_DRV8825_MODE7
+Added Pin To Net: NetName=M2_U_DRV8825_MODE1 Pin=U?_U_DRV8825_MODE1-4
+Added Net: Name=M2_U_DRV8825_MODE1
+Added Pin To Net: NetName=M2_U_DRV8825_MODE2 Pin=U?_U_DRV8825_MODE2-4
+Added Net: Name=M2_U_DRV8825_MODE2
+Added Pin To Net: NetName=M2_U_DRV8825_MODE3 Pin=U?_U_DRV8825_MODE3-4
+Added Net: Name=M2_U_DRV8825_MODE3
+Added Pin To Net: NetName=M2_U_DRV8825_MODE4 Pin=U?_U_DRV8825_MODE4-4
+Added Net: Name=M2_U_DRV8825_MODE4
+Added Pin To Net: NetName=M2_U_DRV8825_MODE5 Pin=U?_U_DRV8825_MODE5-4
+Added Net: Name=M2_U_DRV8825_MODE5
+Added Pin To Net: NetName=M2_U_DRV8825_MODE6 Pin=U?_U_DRV8825_MODE6-4
+Added Net: Name=M2_U_DRV8825_MODE6
+Added Pin To Net: NetName=M2_U_DRV8825_MODE7 Pin=U?_U_DRV8825_MODE7-4
+Added Net: Name=M2_U_DRV8825_MODE7
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE1_1 Pin=R?_U_DRV8825_MODE1-1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE1_1 Pin=U?_U_DRV8825_MODE1-10
+Added Net: Name=NetR?_U_DRV8825_MODE1_1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE1_2 Pin=R?_U_DRV8825_MODE1-2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE1_2 Pin=U?_U_DRV8825_MODE1-5
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE1_2 Pin=U?_U_DRV8825_MODE1-6
+Added Net: Name=NetR?_U_DRV8825_MODE1_2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE2_1 Pin=R?_U_DRV8825_MODE2-1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE2_1 Pin=U?_U_DRV8825_MODE2-10
+Added Net: Name=NetR?_U_DRV8825_MODE2_1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE2_2 Pin=R?_U_DRV8825_MODE2-2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE2_2 Pin=U?_U_DRV8825_MODE2-5
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE2_2 Pin=U?_U_DRV8825_MODE2-6
+Added Net: Name=NetR?_U_DRV8825_MODE2_2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE3_1 Pin=R?_U_DRV8825_MODE3-1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE3_1 Pin=U?_U_DRV8825_MODE3-10
+Added Net: Name=NetR?_U_DRV8825_MODE3_1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE3_2 Pin=R?_U_DRV8825_MODE3-2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE3_2 Pin=U?_U_DRV8825_MODE3-5
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE3_2 Pin=U?_U_DRV8825_MODE3-6
+Added Net: Name=NetR?_U_DRV8825_MODE3_2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE4_1 Pin=R?_U_DRV8825_MODE4-1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE4_1 Pin=U?_U_DRV8825_MODE4-10
+Added Net: Name=NetR?_U_DRV8825_MODE4_1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE4_2 Pin=R?_U_DRV8825_MODE4-2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE4_2 Pin=U?_U_DRV8825_MODE4-5
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE4_2 Pin=U?_U_DRV8825_MODE4-6
+Added Net: Name=NetR?_U_DRV8825_MODE4_2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE5_1 Pin=R?_U_DRV8825_MODE5-1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE5_1 Pin=U?_U_DRV8825_MODE5-10
+Added Net: Name=NetR?_U_DRV8825_MODE5_1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE5_2 Pin=R?_U_DRV8825_MODE5-2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE5_2 Pin=U?_U_DRV8825_MODE5-5
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE5_2 Pin=U?_U_DRV8825_MODE5-6
+Added Net: Name=NetR?_U_DRV8825_MODE5_2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE6_1 Pin=R?_U_DRV8825_MODE6-1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE6_1 Pin=U?_U_DRV8825_MODE6-10
+Added Net: Name=NetR?_U_DRV8825_MODE6_1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE6_2 Pin=R?_U_DRV8825_MODE6-2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE6_2 Pin=U?_U_DRV8825_MODE6-5
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE6_2 Pin=U?_U_DRV8825_MODE6-6
+Added Net: Name=NetR?_U_DRV8825_MODE6_2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE7_1 Pin=R?_U_DRV8825_MODE7-1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE7_1 Pin=U?_U_DRV8825_MODE7-10
+Added Net: Name=NetR?_U_DRV8825_MODE7_1
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE7_2 Pin=R?_U_DRV8825_MODE7-2
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE7_2 Pin=U?_U_DRV8825_MODE7-5
+Added Pin To Net: NetName=NetR?_U_DRV8825_MODE7_2 Pin=U?_U_DRV8825_MODE7-6
+Added Net: Name=NetR?_U_DRV8825_MODE7_2
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE1_1 Pin=U?_U_DRV8825_MODE1-1
+Added Net: Name=NetU?_U_DRV8825_MODE1_1
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE1_7 Pin=U?_U_DRV8825_MODE1-7
+Added Net: Name=NetU?_U_DRV8825_MODE1_7
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE1_8 Pin=U?_U_DRV8825_MODE1-8
+Added Net: Name=NetU?_U_DRV8825_MODE1_8
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE1_11 Pin=U?_U_DRV8825_MODE1-11
+Added Net: Name=NetU?_U_DRV8825_MODE1_11
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE1_12 Pin=U?_U_DRV8825_MODE1-12
+Added Net: Name=NetU?_U_DRV8825_MODE1_12
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE1_13 Pin=U?_U_DRV8825_MODE1-13
+Added Net: Name=NetU?_U_DRV8825_MODE1_13
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE2_1 Pin=U?_U_DRV8825_MODE2-1
+Added Net: Name=NetU?_U_DRV8825_MODE2_1
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE2_7 Pin=U?_U_DRV8825_MODE2-7
+Added Net: Name=NetU?_U_DRV8825_MODE2_7
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE2_8 Pin=U?_U_DRV8825_MODE2-8
+Added Net: Name=NetU?_U_DRV8825_MODE2_8
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE2_11 Pin=U?_U_DRV8825_MODE2-11
+Added Net: Name=NetU?_U_DRV8825_MODE2_11
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE2_12 Pin=U?_U_DRV8825_MODE2-12
+Added Net: Name=NetU?_U_DRV8825_MODE2_12
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE2_13 Pin=U?_U_DRV8825_MODE2-13
+Added Net: Name=NetU?_U_DRV8825_MODE2_13
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE3_1 Pin=U?_U_DRV8825_MODE3-1
+Added Net: Name=NetU?_U_DRV8825_MODE3_1
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE3_7 Pin=U?_U_DRV8825_MODE3-7
+Added Net: Name=NetU?_U_DRV8825_MODE3_7
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE3_8 Pin=U?_U_DRV8825_MODE3-8
+Added Net: Name=NetU?_U_DRV8825_MODE3_8
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE3_11 Pin=U?_U_DRV8825_MODE3-11
+Added Net: Name=NetU?_U_DRV8825_MODE3_11
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE3_12 Pin=U?_U_DRV8825_MODE3-12
+Added Net: Name=NetU?_U_DRV8825_MODE3_12
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE3_13 Pin=U?_U_DRV8825_MODE3-13
+Added Net: Name=NetU?_U_DRV8825_MODE3_13
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE4_1 Pin=U?_U_DRV8825_MODE4-1
+Added Net: Name=NetU?_U_DRV8825_MODE4_1
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE4_7 Pin=U?_U_DRV8825_MODE4-7
+Added Net: Name=NetU?_U_DRV8825_MODE4_7
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE4_8 Pin=U?_U_DRV8825_MODE4-8
+Added Net: Name=NetU?_U_DRV8825_MODE4_8
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE4_11 Pin=U?_U_DRV8825_MODE4-11
+Added Net: Name=NetU?_U_DRV8825_MODE4_11
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE4_12 Pin=U?_U_DRV8825_MODE4-12
+Added Net: Name=NetU?_U_DRV8825_MODE4_12
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE4_13 Pin=U?_U_DRV8825_MODE4-13
+Added Net: Name=NetU?_U_DRV8825_MODE4_13
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE5_1 Pin=U?_U_DRV8825_MODE5-1
+Added Net: Name=NetU?_U_DRV8825_MODE5_1
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE5_7 Pin=U?_U_DRV8825_MODE5-7
+Added Net: Name=NetU?_U_DRV8825_MODE5_7
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE5_8 Pin=U?_U_DRV8825_MODE5-8
+Added Net: Name=NetU?_U_DRV8825_MODE5_8
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE5_11 Pin=U?_U_DRV8825_MODE5-11
+Added Net: Name=NetU?_U_DRV8825_MODE5_11
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE5_12 Pin=U?_U_DRV8825_MODE5-12
+Added Net: Name=NetU?_U_DRV8825_MODE5_12
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE5_13 Pin=U?_U_DRV8825_MODE5-13
+Added Net: Name=NetU?_U_DRV8825_MODE5_13
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE6_1 Pin=U?_U_DRV8825_MODE6-1
+Added Net: Name=NetU?_U_DRV8825_MODE6_1
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE6_7 Pin=U?_U_DRV8825_MODE6-7
+Added Net: Name=NetU?_U_DRV8825_MODE6_7
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE6_8 Pin=U?_U_DRV8825_MODE6-8
+Added Net: Name=NetU?_U_DRV8825_MODE6_8
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE6_11 Pin=U?_U_DRV8825_MODE6-11
+Added Net: Name=NetU?_U_DRV8825_MODE6_11
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE6_12 Pin=U?_U_DRV8825_MODE6-12
+Added Net: Name=NetU?_U_DRV8825_MODE6_12
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE6_13 Pin=U?_U_DRV8825_MODE6-13
+Added Net: Name=NetU?_U_DRV8825_MODE6_13
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE7_1 Pin=U?_U_DRV8825_MODE7-1
+Added Net: Name=NetU?_U_DRV8825_MODE7_1
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE7_7 Pin=U?_U_DRV8825_MODE7-7
+Added Net: Name=NetU?_U_DRV8825_MODE7_7
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE7_8 Pin=U?_U_DRV8825_MODE7-8
+Added Net: Name=NetU?_U_DRV8825_MODE7_8
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE7_11 Pin=U?_U_DRV8825_MODE7-11
+Added Net: Name=NetU?_U_DRV8825_MODE7_11
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE7_12 Pin=U?_U_DRV8825_MODE7-12
+Added Net: Name=NetU?_U_DRV8825_MODE7_12
+Added Pin To Net: NetName=NetU?_U_DRV8825_MODE7_13 Pin=U?_U_DRV8825_MODE7-13
+Added Net: Name=NetU?_U_DRV8825_MODE7_13
+Added Pin To Net: NetName=VCC24 Pin=U?_U_DRV8825_MODE1-15
+Added Pin To Net: NetName=VCC24 Pin=U?_U_DRV8825_MODE2-15
+Added Pin To Net: NetName=VCC24 Pin=U?_U_DRV8825_MODE3-15
+Added Pin To Net: NetName=VCC24 Pin=U?_U_DRV8825_MODE4-15
+Added Pin To Net: NetName=VCC24 Pin=U?_U_DRV8825_MODE5-15
+Added Pin To Net: NetName=VCC24 Pin=U?_U_DRV8825_MODE6-15
+Added Pin To Net: NetName=VCC24 Pin=U?_U_DRV8825_MODE7-15
+Added Net: Name=VCC24
+Added Class: Name=U_DRV8825_MODE1
+Added Class: Name=U_DRV8825_MODE2
+Added Class: Name=U_DRV8825_MODE3
+Added Class: Name=U_DRV8825_MODE4
+Added Class: Name=U_DRV8825_MODE5
+Added Class: Name=U_DRV8825_MODE6
+Added Class: Name=U_DRV8825_MODE7
+Added Class: Name=DRV8825_MODE
+Added Room: Name=U_DRV8825_MODE1
+Added Room: Name=U_DRV8825_MODE2
+Added Room: Name=U_DRV8825_MODE3
+Added Room: Name=U_DRV8825_MODE4
+Added Room: Name=U_DRV8825_MODE5
+Added Room: Name=U_DRV8825_MODE6
+Added Room: Name=U_DRV8825_MODE7

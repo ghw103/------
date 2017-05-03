@@ -191,6 +191,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMFYFTDR
 
+[Document10]
+DocumentPath=DRV8825_MODE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OAFGLLCM
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
